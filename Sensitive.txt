@@ -1,0 +1,64 @@
+Sensitive
+
+ABSTRACT
+Radio Frequency Identification (RFID) and sensor networks
+are both wireless technologies that provide limitless future
+potentials. While the industry has witnessed rapid growth in
+developing and applying RFID technology, and the network
+research community has devoted tremendous efforts in sensor
+networks, these two communities would benefit greatly by
+learning from each other. In pursuing this effect, a project
+utilizing and integrating both technologies is described. The
+goal is to build an in-home elder healthcare system that
+monitors patients’ medication in take. This would help
+addressing the challenge of a growing aging population.
+Categories and Subject Descriptors
+C2.1 [Network Architecture and Design]: Network
+communications, wireless communication.
+General Terms: Experimentation
+Keywords: Healthcare, RFID, sensor networks.
+1. INTRODUCTION
+RFID technology has recently become a viable replacement for the
+Universal Product Code (UPC) technology in many industries. Its
+fast growth and huge potential benefits have motivated a major
+move independently taken by Wal-Mart, the world’s largest retailer,
+and the US Department of Defense (DoD), that requires their
+suppliers to install RFID tags by 2005 [7]. In response, several
+major computer companies, including Intel, HP, IBM, and Sun,
+have announced their efforts and future plans to support RFID.
+RFID technology, however, has attracted relatively little attention in
+the network research community.
+Meanwhile, sensors and sensor networks have in recent years been
+adopted as a major research focus by federal funding agencies. This
+has resulted in fast growing amount of research proposals and
+publications.
+In an effort to bridge the gap between industry and academia
+focuses, we have been working on a prototype that utilizes both
+technologies and investigates its feasibility, technical challenges,
+and resulting capabilities of their integration.
+An RFID system consists of two primary components - a tag and a
+reader. An RFID tag, like a UPC, is usually attached to a tracking
+object; a reader is then used to track tagged objects. While sensor
+network is used to sense and monitor physical, chemical, and
+biological environments through sensing of sound, temperature,
+light, and etc., RFID tags allow any objects to be track-able or
+“sensible” as long as a RFID tag can be attached. Even though
+RFID technology has limitations, such as low tolerance to fluid or
+metal environments, tags can extend a sensor network by providing
+sensing/sensible property to otherwise un-sensible objects, thus
+provide the last-hop connection of a sensor network.
+RFID have been used in a number of biomedical and healthcare
+applications, such as artificial inter-ocular pressure measurement
+[9], dental implants and molds [11], and hospital workflow
+including intra-hospital patient and equipment tracking [8].
+From a recent study, the population of age 65 and older in the
+United State will grow from 10.6 million in 1975 to 18.2 in 2025, an
+increase of 72%, while the overall population increase is about 60%.
+The trend is global; the worldwide population over age 65 will be
+more than double from 357 million in 1990 to 761 million in 2025
+[10]. Longevity has caused expensive age-related disabilities,
+diseases, and therefore healthcare. To help in addressing this aging
+population medication needs, we target our prototype on an in-home
+elder healthcare system. This is a continuation of our work on
+applying 
+
